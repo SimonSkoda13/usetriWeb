@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "homepage": "http://SimonSkoda13.github.io/usetri_web_react_io",
   "private": true,
+  "type": "module",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
